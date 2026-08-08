@@ -1,0 +1,7 @@
+{
+  "name": "SpectraDrum-Protocol",
+  "version": "1.0.0",
+  "description": "Shared binary protocol definitions for SpectraDrum e-drum ecosystem.",
+  "frameworks": "*",
+  "platforms": "*"
+}
